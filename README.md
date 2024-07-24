@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CompTIA Network +**
 
-- 💬 Ask me about **Computer Science, Metaheuristic Algorithms Android development, Web development, Networking**
+- 💬 Ask me about **Computer Science, Metaheuristic Algorithms, Android development, Web development, Networking**
 
 - 📫 How to reach me **abdelbarie.guelmami@univ-setif.dz**
 
